@@ -1,1 +1,1 @@
-# Product-Card-JS-1
+Product card done using Flexbox and JS.
