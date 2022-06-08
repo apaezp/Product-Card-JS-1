@@ -13,16 +13,16 @@ showQuantity = document.querySelector("#show-quantity");
 showQuantity.innerHTML = quantity.value;
 
 
-  
-});
-
-
-  
 function changeBackground() {
   let color = document.querySelector("#color").value;
   document.querySelector("#show-color").style.backgroundColor = color;
   }
-changeBackground();
+changeBackground();  
+});
+
+
+  
+
 
 
 
